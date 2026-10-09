@@ -1,0 +1,46 @@
+{
+  "name": "bartending-simulator",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "lint": "eslint .",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "images:fetch": "tsx scripts/fetch-images.ts",
+    "images:verify": "tsx scripts/verify-images.ts"
+  },
+  "dependencies": {
+    "framer-motion": "^14.0.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@playwright/test": "^1.56.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "eslint": "^10.12.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.13.0",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.71.1",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.3"
+  },
+  "engines": {
+    "node": ">=20.19"
+  },
+  "description": "A static, offline-capable bartending simulator: free bar, 212-cocktail recipe library with guided mode, and scored challenge mode."
+}

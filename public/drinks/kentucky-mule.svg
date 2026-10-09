@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="Kentucky Mule">
+  <title>Kentucky Mule</title>
+  <defs>
+    <clipPath id="g1572222745-bowl"><path d="M28 42 H72 V150 H28 Z"/></clipPath>
+    <linearGradient id="g1572222745-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#a0824d"/>
+      <stop offset="0.35" stop-color="#d5ad67"/>
+      <stop offset="0.7" stop-color="#e4ca9c"/>
+      <stop offset="1" stop-color="#d5ad67"/>
+    </linearGradient>
+    <linearGradient id="g1572222745-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g1572222745-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g1572222745-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M26 40 H74 V152 H26 Z" fill="#b87333" opacity="0.85"/>
+  <g clip-path="url(#g1572222745-bowl)">
+    <rect x="0" y="68.7" width="100" height="89.3" fill="url(#g1572222745-liq)" opacity="0.68"/>
+    
+    <g transform="rotate(-12 41.4 78.7)"><rect x="33.4" y="70.7" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M36.4 73.7 L43.4 73.7" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(15 55.8 84.7)"><rect x="47.8" y="76.7" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M50.8 79.7 L57.8 79.7" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(5 48.6 102.7)"><rect x="40.6" y="94.7" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M43.6 97.7 L50.6 97.7" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(-20 56.3 112.7)"><rect x="48.3" y="104.7" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.3 107.7 L58.3 107.7" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g>
+  </g>
+  <path d="M26 40 H74 V152 H26 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M74 62 C94 62 94 118 74 118" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/><path d="M26 52 H74" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M26 40 H74 V152 H26 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  <g transform="translate(72.0 40.0)"><path d="M0 6 V-18" stroke="#2e8b57" stroke-width="1.5"/><path d="M0 -4 C-8 -6 -10 -14 -6 -16 C-1 -14 0 -8 0 -4 Z" fill="#3fa36b" stroke="#1f6b40" stroke-width="1"/><path d="M0 -4 C8 -6 10 -14 6 -16 C1 -14 0 -8 0 -4 Z" fill="#3fa36b" stroke="#1f6b40" stroke-width="1"/><path d="M0 -12 C-6 -14 -7 -22 -3 -24 C0 -22 0 -16 0 -12 Z" fill="#4fbf7c" stroke="#1f6b40" stroke-width="1"/><path d="M0 -12 C6 -14 7 -22 3 -24 C0 -22 0 -16 0 -12 Z" fill="#4fbf7c" stroke="#1f6b40" stroke-width="1"/></g><g transform="translate(54.0 40.0)"><path d="M0 0 L-14 -12 A18 18 0 0 1 14 -12 Z" fill="#8fc93a" stroke="#3f6f12" stroke-width="1.5"/><path d="M0 -2 L-10 -10 A14 14 0 0 1 10 -10 Z" fill="#d8ec9a"/></g>
+</svg>

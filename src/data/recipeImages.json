@@ -1,0 +1,1188 @@
+{
+  "vodka-7up": {
+    "src": "/drinks/vodka-7up.svg",
+    "source": "svg",
+    "bytes": 3105
+  },
+  "screwdriver": {
+    "src": "/drinks/screwdriver.jpg",
+    "source": "cocktaildb",
+    "bytes": 24753,
+    "dbName": "Screwdriver"
+  },
+  "vodka-soda": {
+    "src": "/drinks/vodka-soda.svg",
+    "source": "svg",
+    "bytes": 3107
+  },
+  "vodka-tonic": {
+    "src": "/drinks/vodka-tonic.jpg",
+    "source": "cocktaildb",
+    "bytes": 30403,
+    "dbName": "Vodka Tonic"
+  },
+  "cape-codder": {
+    "src": "/drinks/cape-codder.svg",
+    "source": "svg",
+    "bytes": 3145
+  },
+  "vodka-red-bull": {
+    "src": "/drinks/vodka-red-bull.svg",
+    "source": "svg",
+    "bytes": 2902
+  },
+  "greyhound": {
+    "src": "/drinks/greyhound.jpg",
+    "source": "cocktaildb",
+    "bytes": 29008,
+    "dbName": "Greyhound"
+  },
+  "salty-dog": {
+    "src": "/drinks/salty-dog.jpg",
+    "source": "cocktaildb",
+    "bytes": 34351,
+    "dbName": "Salty Dog"
+  },
+  "madras": {
+    "src": "/drinks/madras.svg",
+    "source": "svg",
+    "bytes": 3150
+  },
+  "bay-breeze": {
+    "src": "/drinks/bay-breeze.svg",
+    "source": "svg",
+    "bytes": 3099
+  },
+  "sea-breeze": {
+    "src": "/drinks/sea-breeze.jpg",
+    "source": "cocktaildb",
+    "bytes": 33223,
+    "dbName": "Sea breeze"
+  },
+  "sex-on-the-beach": {
+    "src": "/drinks/sex-on-the-beach.jpg",
+    "source": "cocktaildb",
+    "bytes": 46375,
+    "dbName": "Sex on the Beach"
+  },
+  "woo-woo": {
+    "src": "/drinks/woo-woo.svg",
+    "source": "svg",
+    "bytes": 3101
+  },
+  "fuzzy-navel": {
+    "src": "/drinks/fuzzy-navel.svg",
+    "source": "svg",
+    "bytes": 3168
+  },
+  "harvey-wallbanger": {
+    "src": "/drinks/harvey-wallbanger.jpg",
+    "source": "cocktaildb",
+    "bytes": 36323,
+    "dbName": "Harvey Wallbanger"
+  },
+  "moscow-mule": {
+    "src": "/drinks/moscow-mule.jpg",
+    "source": "cocktaildb",
+    "bytes": 42840,
+    "dbName": "Moscow Mule"
+  },
+  "black-russian": {
+    "src": "/drinks/black-russian.jpg",
+    "source": "cocktaildb",
+    "bytes": 39749,
+    "dbName": "Black Russian"
+  },
+  "white-russian": {
+    "src": "/drinks/white-russian.jpg",
+    "source": "cocktaildb",
+    "bytes": 29130,
+    "dbName": "White Russian"
+  },
+  "mudslide": {
+    "src": "/drinks/mudslide.svg",
+    "source": "svg",
+    "bytes": 2894
+  },
+  "cosmopolitan": {
+    "src": "/drinks/cosmopolitan.jpg",
+    "source": "cocktaildb",
+    "bytes": 22352,
+    "dbName": "Cosmopolitan"
+  },
+  "espresso-martini": {
+    "src": "/drinks/espresso-martini.jpg",
+    "source": "cocktaildb",
+    "bytes": 33225,
+    "dbName": "Espresso Martini"
+  },
+  "french-martini": {
+    "src": "/drinks/french-martini.jpg",
+    "source": "cocktaildb",
+    "bytes": 29283,
+    "dbName": "French Martini"
+  },
+  "vodka-martini": {
+    "src": "/drinks/vodka-martini.jpg",
+    "source": "cocktaildb",
+    "bytes": 18189,
+    "dbName": "Vodka Martini"
+  },
+  "dirty-martini": {
+    "src": "/drinks/dirty-martini.jpg",
+    "source": "cocktaildb",
+    "bytes": 52195,
+    "dbName": "Dirty Martini"
+  },
+  "kamikaze": {
+    "src": "/drinks/kamikaze.jpg",
+    "source": "cocktaildb",
+    "bytes": 23369,
+    "dbName": "Kamikaze"
+  },
+  "lemon-drop": {
+    "src": "/drinks/lemon-drop.jpg",
+    "source": "cocktaildb",
+    "bytes": 25557,
+    "dbName": "Lemon Drop"
+  },
+  "bloody-mary": {
+    "src": "/drinks/bloody-mary.jpg",
+    "source": "cocktaildb",
+    "bytes": 41788,
+    "dbName": "Bloody Mary"
+  },
+  "vodka-collins": {
+    "src": "/drinks/vodka-collins.jpg",
+    "source": "cocktaildb",
+    "bytes": 36632,
+    "dbName": "Tom Collins"
+  },
+  "vodka-gimlet": {
+    "src": "/drinks/vodka-gimlet.jpg",
+    "source": "cocktaildb",
+    "bytes": 24855,
+    "dbName": "Gimlet"
+  },
+  "vodka-sour": {
+    "src": "/drinks/vodka-sour.svg",
+    "source": "svg",
+    "bytes": 3519
+  },
+  "caipiroska": {
+    "src": "/drinks/caipiroska.svg",
+    "source": "svg",
+    "bytes": 5951
+  },
+  "appletini": {
+    "src": "/drinks/appletini.svg",
+    "source": "svg",
+    "bytes": 2138
+  },
+  "blue-lagoon": {
+    "src": "/drinks/blue-lagoon.jpg",
+    "source": "cocktaildb",
+    "bytes": 41490,
+    "dbName": "Blue Lagoon"
+  },
+  "long-island-iced-tea": {
+    "src": "/drinks/long-island-iced-tea.jpg",
+    "source": "cocktaildb",
+    "bytes": 64916,
+    "dbName": "Long Island Iced Tea"
+  },
+  "pornstar-martini": {
+    "src": "/drinks/pornstar-martini.jpg",
+    "source": "cocktaildb",
+    "bytes": 36879,
+    "dbName": "Pornstar Martini"
+  },
+  "russian-spring-punch": {
+    "src": "/drinks/russian-spring-punch.jpg",
+    "source": "cocktaildb",
+    "bytes": 33038,
+    "dbName": "Russian Spring Punch"
+  },
+  "godmother": {
+    "src": "/drinks/godmother.jpg",
+    "source": "cocktaildb",
+    "bytes": 45810,
+    "dbName": "Godmother"
+  },
+  "chi-chi": {
+    "src": "/drinks/chi-chi.svg",
+    "source": "svg",
+    "bytes": 7088
+  },
+  "mind-eraser": {
+    "src": "/drinks/mind-eraser.svg",
+    "source": "svg",
+    "bytes": 3133
+  },
+  "gin-and-tonic": {
+    "src": "/drinks/gin-and-tonic.jpg",
+    "source": "cocktaildb",
+    "bytes": 22761,
+    "dbName": "Gin Tonic"
+  },
+  "tom-collins": {
+    "src": "/drinks/tom-collins.jpg",
+    "source": "cocktaildb",
+    "bytes": 36632,
+    "dbName": "Tom Collins"
+  },
+  "john-collins": {
+    "src": "/drinks/john-collins.jpg",
+    "source": "cocktaildb",
+    "bytes": 45983,
+    "dbName": "John Collins"
+  },
+  "gin-fizz": {
+    "src": "/drinks/gin-fizz.jpg",
+    "source": "cocktaildb",
+    "bytes": 17514,
+    "dbName": "Gin Fizz"
+  },
+  "ramos-gin-fizz": {
+    "src": "/drinks/ramos-gin-fizz.jpg",
+    "source": "cocktaildb",
+    "bytes": 18593,
+    "dbName": "Ramos Gin Fizz"
+  },
+  "gimlet": {
+    "src": "/drinks/gimlet.jpg",
+    "source": "cocktaildb",
+    "bytes": 24855,
+    "dbName": "Gimlet"
+  },
+  "gin-rickey": {
+    "src": "/drinks/gin-rickey.jpg",
+    "source": "cocktaildb",
+    "bytes": 43560,
+    "dbName": "Gin Rickey"
+  },
+  "dry-martini": {
+    "src": "/drinks/dry-martini.jpg",
+    "source": "cocktaildb",
+    "bytes": 45779,
+    "dbName": "Dry Martini"
+  },
+  "gibson": {
+    "src": "/drinks/gibson.svg",
+    "source": "svg",
+    "bytes": 2224
+  },
+  "negroni": {
+    "src": "/drinks/negroni.jpg",
+    "source": "cocktaildb",
+    "bytes": 37098,
+    "dbName": "Negroni"
+  },
+  "negroni-sbagliato": {
+    "src": "/drinks/negroni-sbagliato.svg",
+    "source": "svg",
+    "bytes": 3194
+  },
+  "americano": {
+    "src": "/drinks/americano.jpg",
+    "source": "cocktaildb",
+    "bytes": 46253,
+    "dbName": "Americano"
+  },
+  "boulevardier": {
+    "src": "/drinks/boulevardier.jpg",
+    "source": "cocktaildb",
+    "bytes": 48881,
+    "dbName": "Boulevardier"
+  },
+  "aviation": {
+    "src": "/drinks/aviation.jpg",
+    "source": "cocktaildb",
+    "bytes": 47600,
+    "dbName": "Aviation"
+  },
+  "last-word": {
+    "src": "/drinks/last-word.jpg",
+    "source": "cocktaildb",
+    "bytes": 25566,
+    "dbName": "The Last Word"
+  },
+  "clover-club": {
+    "src": "/drinks/clover-club.jpg",
+    "source": "cocktaildb",
+    "bytes": 40412,
+    "dbName": "Clover Club"
+  },
+  "bees-knees": {
+    "src": "/drinks/bees-knees.svg",
+    "source": "svg",
+    "bytes": 2384
+  },
+  "southside": {
+    "src": "/drinks/southside.svg",
+    "source": "svg",
+    "bytes": 2616
+  },
+  "bramble": {
+    "src": "/drinks/bramble.jpg",
+    "source": "cocktaildb",
+    "bytes": 60064,
+    "dbName": "Bramble"
+  },
+  "french-75": {
+    "src": "/drinks/french-75.jpg",
+    "source": "cocktaildb",
+    "bytes": 28355,
+    "dbName": "French 75"
+  },
+  "hanky-panky": {
+    "src": "/drinks/hanky-panky.svg",
+    "source": "svg",
+    "bytes": 2372
+  },
+  "martinez": {
+    "src": "/drinks/martinez.jpg",
+    "source": "cocktaildb",
+    "bytes": 27883,
+    "dbName": "Martinez Cocktail"
+  },
+  "casino": {
+    "src": "/drinks/casino.jpg",
+    "source": "cocktaildb",
+    "bytes": 26559,
+    "dbName": "Casino"
+  },
+  "tuxedo": {
+    "src": "/drinks/tuxedo.jpg",
+    "source": "cocktaildb",
+    "bytes": 36143,
+    "dbName": "Tuxedo Cocktail"
+  },
+  "corpse-reviver-2": {
+    "src": "/drinks/corpse-reviver-2.jpg",
+    "source": "cocktaildb",
+    "bytes": 24583,
+    "dbName": "Corpse Reviver"
+  },
+  "white-lady": {
+    "src": "/drinks/white-lady.jpg",
+    "source": "cocktaildb",
+    "bytes": 30227,
+    "dbName": "White Lady"
+  },
+  "monkey-gland": {
+    "src": "/drinks/monkey-gland.jpg",
+    "source": "cocktaildb",
+    "bytes": 31058,
+    "dbName": "Monkey Gland"
+  },
+  "paradise": {
+    "src": "/drinks/paradise.jpg",
+    "source": "cocktaildb",
+    "bytes": 15094,
+    "dbName": "Paradise"
+  },
+  "angel-face": {
+    "src": "/drinks/angel-face.jpg",
+    "source": "cocktaildb",
+    "bytes": 49309,
+    "dbName": "Angel Face"
+  },
+  "singapore-sling": {
+    "src": "/drinks/singapore-sling.jpg",
+    "source": "cocktaildb",
+    "bytes": 34088,
+    "dbName": "Singapore Sling"
+  },
+  "vesper": {
+    "src": "/drinks/vesper.jpg",
+    "source": "cocktaildb",
+    "bytes": 61185,
+    "dbName": "Vesper"
+  },
+  "bronx": {
+    "src": "/drinks/bronx.svg",
+    "source": "svg",
+    "bytes": 2334
+  },
+  "pink-gin": {
+    "src": "/drinks/pink-gin.jpg",
+    "source": "cocktaildb",
+    "bytes": 24631,
+    "dbName": "Pink Gin"
+  },
+  "alaska": {
+    "src": "/drinks/alaska.jpg",
+    "source": "cocktaildb",
+    "bytes": 47500,
+    "dbName": "Alaska Cocktail"
+  },
+  "bijou": {
+    "src": "/drinks/bijou.jpg",
+    "source": "cocktaildb",
+    "bytes": 27659,
+    "dbName": "Bijou"
+  },
+  "twentieth-century": {
+    "src": "/drinks/twentieth-century.svg",
+    "source": "svg",
+    "bytes": 2374
+  },
+  "pegu-club": {
+    "src": "/drinks/pegu-club.jpg",
+    "source": "cocktaildb",
+    "bytes": 54291,
+    "dbName": "Pegu Club"
+  },
+  "army-and-navy": {
+    "src": "/drinks/army-and-navy.svg",
+    "source": "svg",
+    "bytes": 2388
+  },
+  "gin-gin-mule": {
+    "src": "/drinks/gin-gin-mule.svg",
+    "source": "svg",
+    "bytes": 3670
+  },
+  "elderflower-collins": {
+    "src": "/drinks/elderflower-collins.svg",
+    "source": "svg",
+    "bytes": 3166
+  },
+  "red-snapper": {
+    "src": "/drinks/red-snapper.jpg",
+    "source": "cocktaildb",
+    "bytes": 37456,
+    "dbName": "Red Snapper"
+  },
+  "gin-sour": {
+    "src": "/drinks/gin-sour.jpg",
+    "source": "cocktaildb",
+    "bytes": 16880,
+    "dbName": "Gin Sour"
+  },
+  "eastside": {
+    "src": "/drinks/eastside.svg",
+    "source": "svg",
+    "bytes": 2366
+  },
+  "sloe-gin-fizz": {
+    "src": "/drinks/sloe-gin-fizz.svg",
+    "source": "svg",
+    "bytes": 3397
+  },
+  "rum-and-coke": {
+    "src": "/drinks/rum-and-coke.svg",
+    "source": "svg",
+    "bytes": 2914
+  },
+  "cuba-libre": {
+    "src": "/drinks/cuba-libre.jpg",
+    "source": "cocktaildb",
+    "bytes": 32651,
+    "dbName": "Cuba Libre"
+  },
+  "dark-n-stormy": {
+    "src": "/drinks/dark-n-stormy.jpg",
+    "source": "cocktaildb",
+    "bytes": 36497,
+    "dbName": "Dark and Stormy"
+  },
+  "mojito": {
+    "src": "/drinks/mojito.jpg",
+    "source": "cocktaildb",
+    "bytes": 32587,
+    "dbName": "Mojito"
+  },
+  "daiquiri": {
+    "src": "/drinks/daiquiri.jpg",
+    "source": "cocktaildb",
+    "bytes": 30415,
+    "dbName": "Daiquiri"
+  },
+  "hemingway-special": {
+    "src": "/drinks/hemingway-special.jpg",
+    "source": "cocktaildb",
+    "bytes": 60025,
+    "dbName": "Hemingway Special"
+  },
+  "pina-colada": {
+    "src": "/drinks/pina-colada.jpg",
+    "source": "cocktaildb",
+    "bytes": 45133,
+    "dbName": "Pina Colada"
+  },
+  "mai-tai": {
+    "src": "/drinks/mai-tai.jpg",
+    "source": "cocktaildb",
+    "bytes": 43882,
+    "dbName": "Mai Tai"
+  },
+  "zombie": {
+    "src": "/drinks/zombie.jpg",
+    "source": "cocktaildb",
+    "bytes": 21829,
+    "dbName": "Zombie"
+  },
+  "planters-punch": {
+    "src": "/drinks/planters-punch.jpg",
+    "source": "cocktaildb",
+    "bytes": 57550,
+    "dbName": "Planter’s Punch"
+  },
+  "mary-pickford": {
+    "src": "/drinks/mary-pickford.jpg",
+    "source": "cocktaildb",
+    "bytes": 35690,
+    "dbName": "Mary Pickford"
+  },
+  "between-the-sheets": {
+    "src": "/drinks/between-the-sheets.jpg",
+    "source": "cocktaildb",
+    "bytes": 20265,
+    "dbName": "Between The Sheets"
+  },
+  "yellow-bird": {
+    "src": "/drinks/yellow-bird.jpg",
+    "source": "cocktaildb",
+    "bytes": 31014,
+    "dbName": "Yellow Bird"
+  },
+  "canchanchara": {
+    "src": "/drinks/canchanchara.svg",
+    "source": "svg",
+    "bytes": 2910
+  },
+  "old-cuban": {
+    "src": "/drinks/old-cuban.jpg",
+    "source": "cocktaildb",
+    "bytes": 62601,
+    "dbName": "Old Cuban"
+  },
+  "barracuda": {
+    "src": "/drinks/barracuda.jpg",
+    "source": "cocktaildb",
+    "bytes": 29314,
+    "dbName": "Barracuda"
+  },
+  "painkiller": {
+    "src": "/drinks/painkiller.svg",
+    "source": "svg",
+    "bytes": 7215
+  },
+  "jungle-bird": {
+    "src": "/drinks/jungle-bird.svg",
+    "source": "svg",
+    "bytes": 3228
+  },
+  "hurricane": {
+    "src": "/drinks/hurricane.svg",
+    "source": "svg",
+    "bytes": 4004
+  },
+  "bahama-mama": {
+    "src": "/drinks/bahama-mama.jpg",
+    "source": "cocktaildb",
+    "bytes": 58253,
+    "dbName": "Bahama Mama"
+  },
+  "blue-hawaiian": {
+    "src": "/drinks/blue-hawaiian.svg",
+    "source": "svg",
+    "bytes": 7390
+  },
+  "rum-runner": {
+    "src": "/drinks/rum-runner.jpg",
+    "source": "cocktaildb",
+    "bytes": 25662,
+    "dbName": "Rum Runner"
+  },
+  "malibu-pineapple": {
+    "src": "/drinks/malibu-pineapple.jpg",
+    "source": "cocktaildb",
+    "bytes": 27161,
+    "dbName": "Malibu Twister"
+  },
+  "rum-punch": {
+    "src": "/drinks/rum-punch.jpg",
+    "source": "cocktaildb",
+    "bytes": 38022,
+    "dbName": "Rum Punch"
+  },
+  "el-presidente": {
+    "src": "/drinks/el-presidente.svg",
+    "source": "svg",
+    "bytes": 2376
+  },
+  "hotel-nacional": {
+    "src": "/drinks/hotel-nacional.svg",
+    "source": "svg",
+    "bytes": 2342
+  },
+  "rum-old-fashioned": {
+    "src": "/drinks/rum-old-fashioned.jpg",
+    "source": "cocktaildb",
+    "bytes": 37123,
+    "dbName": "Rum Old-fashioned"
+  },
+  "corn-n-oil": {
+    "src": "/drinks/corn-n-oil.jpg",
+    "source": "cocktaildb",
+    "bytes": 49805,
+    "dbName": "Corn n Oil"
+  },
+  "caipirinha": {
+    "src": "/drinks/caipirinha.jpg",
+    "source": "cocktaildb",
+    "bytes": 39050,
+    "dbName": "Caipirinha"
+  },
+  "strawberry-daiquiri": {
+    "src": "/drinks/strawberry-daiquiri.jpg",
+    "source": "cocktaildb",
+    "bytes": 54978,
+    "dbName": "Strawberry Daiquiri"
+  },
+  "frozen-daiquiri": {
+    "src": "/drinks/frozen-daiquiri.jpg",
+    "source": "cocktaildb",
+    "bytes": 25323,
+    "dbName": "Frozen Daiquiri"
+  },
+  "banana-daiquiri": {
+    "src": "/drinks/banana-daiquiri.jpg",
+    "source": "cocktaildb",
+    "bytes": 45599,
+    "dbName": "Banana Daiquiri"
+  },
+  "knickerbocker": {
+    "src": "/drinks/knickerbocker.svg",
+    "source": "svg",
+    "bytes": 6496
+  },
+  "rum-sour": {
+    "src": "/drinks/rum-sour.jpg",
+    "source": "cocktaildb",
+    "bytes": 45170,
+    "dbName": "Rum Sour"
+  },
+  "spiced-rum-ginger": {
+    "src": "/drinks/spiced-rum-ginger.svg",
+    "source": "svg",
+    "bytes": 3143
+  },
+  "margarita": {
+    "src": "/drinks/margarita.jpg",
+    "source": "cocktaildb",
+    "bytes": 33866,
+    "dbName": "Margarita"
+  },
+  "tommys-margarita": {
+    "src": "/drinks/tommys-margarita.svg",
+    "source": "svg",
+    "bytes": 3174
+  },
+  "paloma": {
+    "src": "/drinks/paloma.jpg",
+    "source": "cocktaildb",
+    "bytes": 21180,
+    "dbName": "Paloma"
+  },
+  "tequila-sunrise": {
+    "src": "/drinks/tequila-sunrise.jpg",
+    "source": "cocktaildb",
+    "bytes": 35598,
+    "dbName": "Tequila Sunrise"
+  },
+  "tequila-soda": {
+    "src": "/drinks/tequila-soda.svg",
+    "source": "svg",
+    "bytes": 3111
+  },
+  "frozen-margarita": {
+    "src": "/drinks/frozen-margarita.svg",
+    "source": "svg",
+    "bytes": 8374
+  },
+  "strawberry-margarita": {
+    "src": "/drinks/strawberry-margarita.jpg",
+    "source": "cocktaildb",
+    "bytes": 41994,
+    "dbName": "Strawberry Margarita"
+  },
+  "cadillac-margarita": {
+    "src": "/drinks/cadillac-margarita.svg",
+    "source": "svg",
+    "bytes": 4407
+  },
+  "mexican-mule": {
+    "src": "/drinks/mexican-mule.svg",
+    "source": "svg",
+    "bytes": 3187
+  },
+  "el-diablo": {
+    "src": "/drinks/el-diablo.svg",
+    "source": "svg",
+    "bytes": 3097
+  },
+  "matador": {
+    "src": "/drinks/matador.svg",
+    "source": "svg",
+    "bytes": 3213
+  },
+  "tequila-shot": {
+    "src": "/drinks/tequila-shot.svg",
+    "source": "svg",
+    "bytes": 2967
+  },
+  "batanga": {
+    "src": "/drinks/batanga.svg",
+    "source": "svg",
+    "bytes": 4109
+  },
+  "oaxaca-old-fashioned": {
+    "src": "/drinks/oaxaca-old-fashioned.svg",
+    "source": "svg",
+    "bytes": 3220
+  },
+  "mezcal-margarita": {
+    "src": "/drinks/mezcal-margarita.svg",
+    "source": "svg",
+    "bytes": 4448
+  },
+  "naked-and-famous": {
+    "src": "/drinks/naked-and-famous.svg",
+    "source": "svg",
+    "bytes": 2096
+  },
+  "illegal": {
+    "src": "/drinks/illegal.svg",
+    "source": "svg",
+    "bytes": 2186
+  },
+  "siesta": {
+    "src": "/drinks/siesta.svg",
+    "source": "svg",
+    "bytes": 2318
+  },
+  "bloody-maria": {
+    "src": "/drinks/bloody-maria.jpg",
+    "source": "cocktaildb",
+    "bytes": 43469,
+    "dbName": "Bloody Maria"
+  },
+  "brave-bull": {
+    "src": "/drinks/brave-bull.jpg",
+    "source": "cocktaildb",
+    "bytes": 27282,
+    "dbName": "Brave Bull Shooter"
+  },
+  "juan-collins": {
+    "src": "/drinks/juan-collins.svg",
+    "source": "svg",
+    "bytes": 3145
+  },
+  "old-fashioned": {
+    "src": "/drinks/old-fashioned.jpg",
+    "source": "cocktaildb",
+    "bytes": 60931,
+    "dbName": "Old Fashioned"
+  },
+  "manhattan": {
+    "src": "/drinks/manhattan.jpg",
+    "source": "cocktaildb",
+    "bytes": 45035,
+    "dbName": "Manhattan"
+  },
+  "perfect-manhattan": {
+    "src": "/drinks/perfect-manhattan.jpg",
+    "source": "cocktaildb",
+    "bytes": 45035,
+    "dbName": "Manhattan"
+  },
+  "dry-manhattan": {
+    "src": "/drinks/dry-manhattan.jpg",
+    "source": "cocktaildb",
+    "bytes": 45035,
+    "dbName": "Manhattan"
+  },
+  "whiskey-sour": {
+    "src": "/drinks/whiskey-sour.jpg",
+    "source": "cocktaildb",
+    "bytes": 22996,
+    "dbName": "Whiskey Sour"
+  },
+  "new-york-sour": {
+    "src": "/drinks/new-york-sour.jpg",
+    "source": "cocktaildb",
+    "bytes": 35897,
+    "dbName": "New York Sour"
+  },
+  "sazerac": {
+    "src": "/drinks/sazerac.jpg",
+    "source": "cocktaildb",
+    "bytes": 37344,
+    "dbName": "Sazerac"
+  },
+  "vieux-carre": {
+    "src": "/drinks/vieux-carre.svg",
+    "source": "svg",
+    "bytes": 3451
+  },
+  "rusty-nail": {
+    "src": "/drinks/rusty-nail.jpg",
+    "source": "cocktaildb",
+    "bytes": 24880,
+    "dbName": "Rusty Nail"
+  },
+  "godfather": {
+    "src": "/drinks/godfather.jpg",
+    "source": "cocktaildb",
+    "bytes": 39876,
+    "dbName": "Godfather"
+  },
+  "rob-roy": {
+    "src": "/drinks/rob-roy.jpg",
+    "source": "cocktaildb",
+    "bytes": 30113,
+    "dbName": "Dry Rob Roy"
+  },
+  "blood-and-sand": {
+    "src": "/drinks/blood-and-sand.svg",
+    "source": "svg",
+    "bytes": 2370
+  },
+  "bobby-burns": {
+    "src": "/drinks/bobby-burns.jpg",
+    "source": "cocktaildb",
+    "bytes": 27180,
+    "dbName": "Bobby Burns Cocktail"
+  },
+  "penicillin": {
+    "src": "/drinks/penicillin.jpg",
+    "source": "cocktaildb",
+    "bytes": 36457,
+    "dbName": "Penicillin"
+  },
+  "whiskey-ginger": {
+    "src": "/drinks/whiskey-ginger.svg",
+    "source": "svg",
+    "bytes": 3115
+  },
+  "jack-and-coke": {
+    "src": "/drinks/jack-and-coke.svg",
+    "source": "svg",
+    "bytes": 2908
+  },
+  "seven-and-seven": {
+    "src": "/drinks/seven-and-seven.svg",
+    "source": "svg",
+    "bytes": 3121
+  },
+  "lynchburg-lemonade": {
+    "src": "/drinks/lynchburg-lemonade.svg",
+    "source": "svg",
+    "bytes": 3156
+  },
+  "mint-julep": {
+    "src": "/drinks/mint-julep.jpg",
+    "source": "cocktaildb",
+    "bytes": 40437,
+    "dbName": "Mint Julep"
+  },
+  "whiskey-smash": {
+    "src": "/drinks/whiskey-smash.svg",
+    "source": "svg",
+    "bytes": 6486
+  },
+  "brown-derby": {
+    "src": "/drinks/brown-derby.svg",
+    "source": "svg",
+    "bytes": 2086
+  },
+  "gold-rush": {
+    "src": "/drinks/gold-rush.svg",
+    "source": "svg",
+    "bytes": 3201
+  },
+  "kentucky-mule": {
+    "src": "/drinks/kentucky-mule.svg",
+    "source": "svg",
+    "bytes": 3722
+  },
+  "hot-toddy": {
+    "src": "/drinks/hot-toddy.jpg",
+    "source": "cocktaildb",
+    "bytes": 26710,
+    "dbName": "Hot Toddy"
+  },
+  "irish-coffee": {
+    "src": "/drinks/irish-coffee.jpg",
+    "source": "cocktaildb",
+    "bytes": 37720,
+    "dbName": "Irish Coffee"
+  },
+  "tipperary": {
+    "src": "/drinks/tipperary.jpg",
+    "source": "cocktaildb",
+    "bytes": 49442,
+    "dbName": "Tipperary"
+  },
+  "paper-plane": {
+    "src": "/drinks/paper-plane.svg",
+    "source": "svg",
+    "bytes": 2086
+  },
+  "toronto": {
+    "src": "/drinks/toronto.svg",
+    "source": "svg",
+    "bytes": 2364
+  },
+  "scofflaw": {
+    "src": "/drinks/scofflaw.svg",
+    "source": "svg",
+    "bytes": 2366
+  },
+  "ward-eight": {
+    "src": "/drinks/ward-eight.svg",
+    "source": "svg",
+    "bytes": 2603
+  },
+  "algonquin": {
+    "src": "/drinks/algonquin.jpg",
+    "source": "cocktaildb",
+    "bytes": 43882,
+    "dbName": "Algonquin"
+  },
+  "amaretto-sour": {
+    "src": "/drinks/amaretto-sour.jpg",
+    "source": "cocktaildb",
+    "bytes": 48060,
+    "dbName": "Amaretto Sour"
+  },
+  "washington-apple": {
+    "src": "/drinks/washington-apple.svg",
+    "source": "svg",
+    "bytes": 3088
+  },
+  "whisky-highball": {
+    "src": "/drinks/whisky-highball.svg",
+    "source": "svg",
+    "bytes": 3194
+  },
+  "remember-the-maine": {
+    "src": "/drinks/remember-the-maine.svg",
+    "source": "svg",
+    "bytes": 2351
+  },
+  "sidecar": {
+    "src": "/drinks/sidecar.jpg",
+    "source": "cocktaildb",
+    "bytes": 55689,
+    "dbName": "Sidecar"
+  },
+  "brandy-alexander": {
+    "src": "/drinks/brandy-alexander.jpg",
+    "source": "cocktaildb",
+    "bytes": 29768,
+    "dbName": "Brandy Alexander"
+  },
+  "stinger": {
+    "src": "/drinks/stinger.jpg",
+    "source": "cocktaildb",
+    "bytes": 25813,
+    "dbName": "Stinger"
+  },
+  "french-connection": {
+    "src": "/drinks/french-connection.jpg",
+    "source": "cocktaildb",
+    "bytes": 40807,
+    "dbName": "French Connection"
+  },
+  "horses-neck": {
+    "src": "/drinks/horses-neck.svg",
+    "source": "svg",
+    "bytes": 3192
+  },
+  "champagne-cocktail": {
+    "src": "/drinks/champagne-cocktail.jpg",
+    "source": "cocktaildb",
+    "bytes": 28355,
+    "dbName": "Champagne Cocktail"
+  },
+  "porto-flip": {
+    "src": "/drinks/porto-flip.jpg",
+    "source": "cocktaildb",
+    "bytes": 26274,
+    "dbName": "Porto flip"
+  },
+  "brandy-crusta": {
+    "src": "/drinks/brandy-crusta.svg",
+    "source": "svg",
+    "bytes": 3928
+  },
+  "b-and-b": {
+    "src": "/drinks/b-and-b.svg",
+    "source": "svg",
+    "bytes": 1835
+  },
+  "brandy-sour": {
+    "src": "/drinks/brandy-sour.jpg",
+    "source": "cocktaildb",
+    "bytes": 38766,
+    "dbName": "Brandy Sour"
+  },
+  "jack-rose": {
+    "src": "/drinks/jack-rose.jpg",
+    "source": "cocktaildb",
+    "bytes": 56292,
+    "dbName": "Jack Rose Cocktail"
+  },
+  "corpse-reviver-1": {
+    "src": "/drinks/corpse-reviver-1.svg",
+    "source": "svg",
+    "bytes": 2104
+  },
+  "japanese-cocktail": {
+    "src": "/drinks/japanese-cocktail.svg",
+    "source": "svg",
+    "bytes": 2392
+  },
+  "pisco-sour": {
+    "src": "/drinks/pisco-sour.jpg",
+    "source": "cocktaildb",
+    "bytes": 23370,
+    "dbName": "Pisco Sour"
+  },
+  "suffering-bastard": {
+    "src": "/drinks/suffering-bastard.svg",
+    "source": "svg",
+    "bytes": 3702
+  },
+  "b-52": {
+    "src": "/drinks/b-52.jpg",
+    "source": "cocktaildb",
+    "bytes": 34122,
+    "dbName": "B-52"
+  },
+  "baby-guinness": {
+    "src": "/drinks/baby-guinness.jpg",
+    "source": "cocktaildb",
+    "bytes": 24703,
+    "dbName": "Baby Guinness"
+  },
+  "slippery-nipple": {
+    "src": "/drinks/slippery-nipple.jpg",
+    "source": "cocktaildb",
+    "bytes": 36475,
+    "dbName": "Slippery Nipple"
+  },
+  "after-eight": {
+    "src": "/drinks/after-eight.svg",
+    "source": "svg",
+    "bytes": 1856
+  },
+  "traffic-light": {
+    "src": "/drinks/traffic-light.svg",
+    "source": "svg",
+    "bytes": 1868
+  },
+  "jagerbomb": {
+    "src": "/drinks/jagerbomb.svg",
+    "source": "svg",
+    "bytes": 1852
+  },
+  "grasshopper": {
+    "src": "/drinks/grasshopper.jpg",
+    "source": "cocktaildb",
+    "bytes": 43200,
+    "dbName": "Grasshopper"
+  },
+  "golden-dream": {
+    "src": "/drinks/golden-dream.jpg",
+    "source": "cocktaildb",
+    "bytes": 24606,
+    "dbName": "Golden dream"
+  },
+  "toasted-almond": {
+    "src": "/drinks/toasted-almond.svg",
+    "source": "svg",
+    "bytes": 2906
+  },
+  "orgasm": {
+    "src": "/drinks/orgasm.jpg",
+    "source": "cocktaildb",
+    "bytes": 26320,
+    "dbName": "Orgasm"
+  },
+  "midori-sour": {
+    "src": "/drinks/midori-sour.svg",
+    "source": "svg",
+    "bytes": 3404
+  },
+  "kir": {
+    "src": "/drinks/kir.jpg",
+    "source": "cocktaildb",
+    "bytes": 16309,
+    "dbName": "Kir"
+  },
+  "kir-royal": {
+    "src": "/drinks/kir-royal.jpg",
+    "source": "cocktaildb",
+    "bytes": 16035,
+    "dbName": "Kir Royale"
+  },
+  "spritz": {
+    "src": "/drinks/spritz.jpg",
+    "source": "cocktaildb",
+    "bytes": 44289,
+    "dbName": "Aperol Spritz"
+  },
+  "hugo": {
+    "src": "/drinks/hugo.svg",
+    "source": "svg",
+    "bytes": 3900
+  },
+  "limoncello-spritz": {
+    "src": "/drinks/limoncello-spritz.svg",
+    "source": "svg",
+    "bytes": 3933
+  },
+  "bellini": {
+    "src": "/drinks/bellini.jpg",
+    "source": "cocktaildb",
+    "bytes": 32032,
+    "dbName": "Bellini"
+  },
+  "mimosa": {
+    "src": "/drinks/mimosa.jpg",
+    "source": "cocktaildb",
+    "bytes": 33955,
+    "dbName": "Mimosa"
+  },
+  "fernandito": {
+    "src": "/drinks/fernandito.svg",
+    "source": "svg",
+    "bytes": 2906
+  },
+  "sambuca-con-mosca": {
+    "src": "/drinks/sambuca-con-mosca.svg",
+    "source": "svg",
+    "bytes": 2259
+  },
+  "lemon-drop-shot": {
+    "src": "/drinks/lemon-drop-shot.svg",
+    "source": "svg",
+    "bytes": 2929
+  },
+  "shirley-temple": {
+    "src": "/drinks/shirley-temple.svg",
+    "source": "svg",
+    "bytes": 3165
+  },
+  "roy-rogers": {
+    "src": "/drinks/roy-rogers.svg",
+    "source": "svg",
+    "bytes": 3157
+  }
+}

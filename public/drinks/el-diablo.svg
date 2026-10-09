@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="El Diablo">
+  <title>El Diablo</title>
+  <defs>
+    <clipPath id="g609305746-bowl"><path d="M31 22 H69 L67 150 H33 Z"/></clipPath>
+    <linearGradient id="g609305746-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#9b8865"/>
+      <stop offset="0.35" stop-color="#cfb586"/>
+      <stop offset="0.7" stop-color="#e0cfb0"/>
+      <stop offset="1" stop-color="#cfb586"/>
+    </linearGradient>
+    <linearGradient id="g609305746-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g609305746-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g609305746-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M30 20 H70 L68 152 H32 Z" fill="url(#g609305746-glass)" opacity="0.55"/>
+  <g clip-path="url(#g609305746-bowl)">
+    <rect x="0" y="42.3" width="100" height="113.7" fill="url(#g609305746-liq)" opacity="0.52"/>
+    
+    <g transform="rotate(-12 42.8 52.3)"><rect x="34.8" y="44.3" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M37.8 47.3 L44.8 47.3" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(15 54.8 58.3)"><rect x="46.8" y="50.3" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M49.8 53.3 L56.8 53.3" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(5 48.8 76.3)"><rect x="40.8" y="68.3" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M43.8 71.3 L50.8 71.3" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(-20 55.3 86.3)"><rect x="47.3" y="78.3" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M50.3 81.3 L57.3 81.3" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g>
+  </g>
+  <path d="M30 20 H70 L68 152 H32 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M33 146 H67" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M30 20 H70 L68 152 H32 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  <g transform="translate(68.0 20.0)"><path d="M0 0 L-14 -12 A18 18 0 0 1 14 -12 Z" fill="#8fc93a" stroke="#3f6f12" stroke-width="1.5"/><path d="M0 -2 L-10 -10 A14 14 0 0 1 10 -10 Z" fill="#d8ec9a"/></g>
+</svg>

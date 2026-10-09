@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="Mudslide">
+  <title>Mudslide</title>
+  <defs>
+    <clipPath id="g30819853-bowl"><path d="M25 62 H75 L72 148 H28 Z"/></clipPath>
+    <linearGradient id="g30819853-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#837869"/>
+      <stop offset="0.35" stop-color="#aea08c"/>
+      <stop offset="0.7" stop-color="#cac1b4"/>
+      <stop offset="1" stop-color="#aea08c"/>
+    </linearGradient>
+    <linearGradient id="g30819853-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g30819853-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g30819853-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="url(#g30819853-glass)" opacity="0.55"/>
+  <g clip-path="url(#g30819853-bowl)">
+    <rect x="0" y="87.4" width="100" height="64.6" fill="url(#g30819853-liq)" opacity="0.76"/>
+    
+    <g transform="rotate(-12 40.6 97.4)"><rect x="32.6" y="89.4" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M35.6 92.4 L42.6 92.4" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(15 56.2 103.4)"><rect x="48.2" y="95.4" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.2 98.4 L58.2 98.4" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(5 48.4 121.4)"><rect x="40.4" y="113.4" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M43.4 116.4 L50.4 116.4" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(-20 56.9 131.4)"><rect x="48.9" y="123.4" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.9 126.4 L58.9 126.4" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g>
+  </g>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M28 142 H72" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  
+</svg>

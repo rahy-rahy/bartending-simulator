@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="Jungle Bird">
+  <title>Jungle Bird</title>
+  <defs>
+    <clipPath id="g467540861-bowl"><path d="M25 62 H75 L72 148 H28 Z"/></clipPath>
+    <linearGradient id="g467540861-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#885f32"/>
+      <stop offset="0.35" stop-color="#b57e42"/>
+      <stop offset="0.7" stop-color="#cfab84"/>
+      <stop offset="1" stop-color="#b57e42"/>
+    </linearGradient>
+    <linearGradient id="g467540861-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g467540861-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g467540861-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="url(#g467540861-glass)" opacity="0.55"/>
+  <g clip-path="url(#g467540861-bowl)">
+    <rect x="0" y="82.2" width="100" height="69.8" fill="url(#g467540861-liq)" opacity="0.82"/>
+    
+    <g transform="rotate(-12 40.6 92.2)"><rect x="32.6" y="84.2" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M35.6 87.2 L42.6 87.2" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(15 56.2 98.2)"><rect x="48.2" y="90.2" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.2 93.2 L58.2 93.2" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(5 48.4 116.2)"><rect x="40.4" y="108.2" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M43.4 111.2 L50.4 111.2" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(-20 56.9 126.2)"><rect x="48.9" y="118.2" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.9 121.2 L58.9 121.2" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g>
+  </g>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M28 142 H72" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  <g transform="translate(74.0 60.0)"><path d="M-6 0 L6 0 L0 -22 Z" fill="#f5d35a" stroke="#c9a21a" stroke-width="1.2"/><path d="M-4 -2 L4 -2 M-3 -8 L3 -8 M-2 -14 L2 -14" stroke="#e0b530" stroke-width="0.8"/><path d="M0 -22 L-6 -34 M0 -22 L0 -36 M0 -22 L6 -34" stroke="#2e8b57" stroke-width="2" stroke-linecap="round"/></g>
+</svg>

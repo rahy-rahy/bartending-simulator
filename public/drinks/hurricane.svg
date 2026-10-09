@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="Hurricane">
+  <title>Hurricane</title>
+  <defs>
+    <clipPath id="g721780160-bowl"><path d="M33 17 H67 C78 42 64 58 60 72 C56 86 60 100 66 112 C72 126 64 136 50 136 C36 136 28 126 34 112 C40 100 44 86 40 72 C36 58 22 42 33 17 Z"/></clipPath>
+    <linearGradient id="g721780160-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#855d2a"/>
+      <stop offset="0.35" stop-color="#b17c38"/>
+      <stop offset="0.7" stop-color="#ccaa7e"/>
+      <stop offset="1" stop-color="#b17c38"/>
+    </linearGradient>
+    <linearGradient id="g721780160-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g721780160-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g721780160-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M32 15 H68 C80 42 66 58 62 72 C58 86 62 100 68 112 C74 128 66 138 50 138 C34 138 26 128 32 112 C38 100 42 86 38 72 C34 58 20 42 32 15 Z" fill="url(#g721780160-glass)" opacity="0.55"/>
+  <g clip-path="url(#g721780160-bowl)">
+    <rect x="0" y="44.6" width="100" height="99.4" fill="url(#g721780160-liq)" opacity="0.64"/>
+    
+    <g transform="rotate(-12 43.5 54.6)"><rect x="35.5" y="46.6" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M38.5 49.6 L45.5 49.6" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(15 54.3 60.6)"><rect x="46.3" y="52.6" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M49.3 55.6 L56.3 55.6" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(5 48.9 78.6)"><rect x="40.9" y="70.6" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M43.9 73.6 L50.9 73.6" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(-20 54.8 88.6)"><rect x="46.8" y="80.6" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M49.8 83.6 L56.8 83.6" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g>
+  </g>
+  <path d="M32 15 H68 C80 42 66 58 62 72 C58 86 62 100 68 112 C74 128 66 138 50 138 C34 138 26 128 32 112 C38 100 42 86 38 72 C34 58 20 42 32 15 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M48 138 L48 146 M52 138 L52 146" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/><path d="M32 150 C32 144 68 144 68 150 C68 155 32 155 32 150 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M32 15 H68 C80 42 66 58 62 72 C58 86 62 100 68 112 C74 128 66 138 50 138 C34 138 26 128 32 112 C38 100 42 86 38 72 C34 58 20 42 32 15 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  <g transform="translate(66.0 15.0)"><path d="M-13 0 A13 13 0 0 1 13 0 Z" fill="#f7941d" stroke="#c96a00" stroke-width="1.5"/><path d="M-9 0 A9 9 0 0 1 9 0 Z" fill="#ffc97a"/><path d="M0 0 V-9 M-6.4 -6.4 L0 0 L6.4 -6.4" stroke="#f7941d" stroke-width="1.2"/></g><g transform="translate(48.0 15.0)"><path d="M0 -4 C2 -12 6 -16 10 -18" fill="none" stroke="#5a3a1a" stroke-width="1.5"/><circle r="6" fill="#8b1a2e" stroke="#4a0a14" stroke-width="1"/><circle cx="-2" cy="-2" r="1.6" fill="#ffffff" opacity="0.6"/></g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="Sambuca con la Mosca">
+  <title>Sambuca con la Mosca</title>
+  <defs>
+    <clipPath id="g1286533980-bowl"><path d="M35 82 H65 L62 150 H38 Z"/></clipPath>
+    <linearGradient id="g1286533980-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#b6b6b3"/>
+      <stop offset="0.35" stop-color="#f2f3ee"/>
+      <stop offset="0.7" stop-color="#f7f7f4"/>
+      <stop offset="1" stop-color="#f2f3ee"/>
+    </linearGradient>
+    <linearGradient id="g1286533980-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g1286533980-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g1286533980-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M34 80 H66 L63 152 H37 Z" fill="url(#g1286533980-glass)" opacity="0.55"/>
+  <g clip-path="url(#g1286533980-bowl)">
+    <rect x="0" y="99.0" width="100" height="55.0" fill="url(#g1286533980-liq)" opacity="0.35"/>
+    
+    
+  </g>
+  <path d="M34 80 H66 L63 152 H37 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M38 144 H62" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M34 80 H66 L63 152 H37 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  <g transform="translate(50.0 90.0)"><ellipse cx="-7" cy="0" rx="4" ry="2.6" fill="#3b2412" transform="rotate(-20 -7 0)"/><ellipse cx="2" cy="-2" rx="4" ry="2.6" fill="#3b2412" transform="rotate(15 2 -2)"/><ellipse cx="9" cy="2" rx="4" ry="2.6" fill="#3b2412" transform="rotate(-30 9 2)"/><path d="M-9 0.5 L-5 -0.5 M0 -2.5 L4 -1.5 M7 2.5 L11 1.5" stroke="#8b5a2b" stroke-width="0.8"/></g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="Gold Rush">
+  <title>Gold Rush</title>
+  <defs>
+    <clipPath id="g1281937844-bowl"><path d="M25 62 H75 L72 148 H28 Z"/></clipPath>
+    <linearGradient id="g1281937844-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#976929"/>
+      <stop offset="0.35" stop-color="#c98c36"/>
+      <stop offset="0.7" stop-color="#dcb47c"/>
+      <stop offset="1" stop-color="#c98c36"/>
+    </linearGradient>
+    <linearGradient id="g1281937844-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g1281937844-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g1281937844-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="url(#g1281937844-glass)" opacity="0.55"/>
+  <g clip-path="url(#g1281937844-bowl)">
+    <rect x="0" y="91.3" width="100" height="60.7" fill="url(#g1281937844-liq)" opacity="0.80"/>
+    
+    <g transform="rotate(-12 40.6 101.3)"><rect x="32.6" y="93.3" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M35.6 96.3 L42.6 96.3" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(15 56.2 107.3)"><rect x="48.2" y="99.3" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.2 102.3 L58.2 102.3" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(5 48.4 125.3)"><rect x="40.4" y="117.3" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M43.4 120.3 L50.4 120.3" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(-20 56.9 135.3)"><rect x="48.9" y="127.3" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.9 130.3 L58.9 130.3" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g>
+  </g>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M28 142 H72" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  <g transform="translate(74.0 60.0)"><path d="M-2 -14 C8 -10 -8 -2 2 4 C10 8 -2 14 6 18" fill="none" stroke="#f5e34a" stroke-width="4" stroke-linecap="round"/><path d="M-2 -14 C8 -10 -8 -2 2 4 C10 8 -2 14 6 18" fill="none" stroke="#fff7b0" stroke-width="1.2" stroke-linecap="round"/></g>
+</svg>

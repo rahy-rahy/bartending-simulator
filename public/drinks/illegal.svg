@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="Illegal">
+  <title>Illegal</title>
+  <defs>
+    <clipPath id="g219582863-bowl"><path d="M19 52 C20 82 34 92 50 92 C66 92 80 82 81 52 Z"/></clipPath>
+    <linearGradient id="g219582863-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#a9a481"/>
+      <stop offset="0.35" stop-color="#e1dbac"/>
+      <stop offset="0.7" stop-color="#ece8c9"/>
+      <stop offset="1" stop-color="#e1dbac"/>
+    </linearGradient>
+    <linearGradient id="g219582863-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g219582863-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g219582863-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M18 50 C19 82 34 94 50 94 C66 94 81 82 82 50 Z" fill="url(#g219582863-glass)" opacity="0.55"/>
+  <g clip-path="url(#g219582863-bowl)">
+    <rect x="0" y="66.7" width="100" height="35.3" fill="url(#g219582863-liq)" opacity="0.43"/>
+    <rect x="0" y="64.7" width="100" height="7" fill="#fff8e6" opacity="0.9" clip-path="url(#g219582863-bowl)"/>
+    
+  </g>
+  <path d="M18 50 C19 82 34 94 50 94 C66 94 81 82 82 50 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M48 94 L48 136 M52 94 L52 136" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/><path d="M30 140 C30 134 70 134 70 140 C70 145 30 145 30 140 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M18 50 C19 82 34 94 50 94 C66 94 81 82 82 50 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -30 120 200" width="500" height="500" role="img" aria-label="Washington Apple">
+  <title>Washington Apple</title>
+  <defs>
+    <clipPath id="g1329453400-bowl"><path d="M25 62 H75 L72 148 H28 Z"/></clipPath>
+    <linearGradient id="g1329453400-liq" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#885d2f"/>
+      <stop offset="0.35" stop-color="#b57c3f"/>
+      <stop offset="0.7" stop-color="#cfaa82"/>
+      <stop offset="1" stop-color="#b57c3f"/>
+    </linearGradient>
+    <linearGradient id="g1329453400-glass" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="g1329453400-bg" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#4a2f1b"/>
+      <stop offset="1" stop-color="#1a110b"/>
+    </radialGradient>
+  </defs>
+  <rect x="-10" y="-30" width="120" height="200" fill="url(#g1329453400-bg)"/>
+  <ellipse cx="50" cy="158" rx="42" ry="5" fill="#000" opacity="0.35"/>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="url(#g1329453400-glass)" opacity="0.55"/>
+  <g clip-path="url(#g1329453400-bowl)">
+    <rect x="0" y="95.2" width="100" height="56.8" fill="url(#g1329453400-liq)" opacity="0.83"/>
+    
+    <g transform="rotate(-12 40.6 105.2)"><rect x="32.6" y="97.2" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M35.6 100.2 L42.6 100.2" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(15 56.2 111.2)"><rect x="48.2" y="103.2" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.2 106.2 L58.2 106.2" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(5 48.4 129.2)"><rect x="40.4" y="121.2" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M43.4 124.2 L50.4 124.2" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g><g transform="rotate(-20 56.9 139.2)"><rect x="48.9" y="131.2" width="16" height="16" rx="3" fill="#ffffff" opacity="0.45" stroke="#ffffff" stroke-opacity="0.8" stroke-width="1"/><path d="M51.9 134.2 L58.9 134.2" stroke="#ffffff" stroke-width="1.5" opacity="0.9"/></g>
+  </g>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="none" stroke="#f3f3f3" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M28 142 H72" fill="none" stroke="#f3f3f3" stroke-opacity="0.8" stroke-width="1.6"/>
+  <path d="M24 60 H76 L73 152 H27 Z" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="4" stroke-dasharray="0 18 22 200" stroke-linecap="round"/>
+  
+  <g transform="translate(74.0 60.0)"><path d="M-12 -4 A14 14 0 0 1 12 -4 L10 2 A11 11 0 0 0 -10 2 Z" fill="#f3f0d8" stroke="#9ad43a" stroke-width="2.5"/></g>
+</svg>
