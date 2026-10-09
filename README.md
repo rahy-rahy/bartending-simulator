@@ -56,6 +56,17 @@ npm run images:verify    # offline re-validation; regenerates SVGs for anything 
 
 Bottles, glasses, tools, ice and garnishes are SVG graphics drawn in code (`src/components/svg`, `src/lib/glassShapes.ts`).
 
+## Demo video
+
+`public/demo.mp4` is a 63-second, 1920x1080 walkthrough of every feature with an original lounge soundtrack. It is served at `/demo.mp4` once deployed. To regenerate it (development only):
+
+```bash
+npm run build && npm run preview &            # serve dist on 127.0.0.1:4173
+node scripts/demo/record.mjs /tmp/demo-clips   # Playwright drives the site and records one clip per scene
+python3 scripts/demo/music.py /tmp/lounge.wav 70   # composes the soundtrack with numpy
+python3 scripts/demo/build_video.py /tmp/demo-clips /tmp/lounge.wav public/demo.mp4 63   # ffmpeg assembly
+```
+
 ## Project layout
 
 ```
